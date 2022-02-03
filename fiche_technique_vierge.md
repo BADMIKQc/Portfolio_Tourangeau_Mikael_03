@@ -11,3 +11,4 @@
 ## Description de mon expérience de l'oeuvre
 ## Ce qui m'a plu, qui m'a donné des idées (justifications)
 ## Aspect que je ne souhaiterais pas retenir pour mes créations ou que je ferais autrement (justifications)
+## Références

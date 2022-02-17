@@ -1,1 +1,1 @@
-# voici l'oeuvre Dreams de l'exposition de Bian
+# Voici l'oeuvre Dreams, de l'exposition de Bian.

@@ -13,29 +13,29 @@ Le lieu de mise en exposition est l'Arsenal Contenporary Art.
 ## Date de votre visite
 le 10 février 2022
 ## Description de l'oeuvre
-Space Dreams prend un ensemble de donnés d'images de l'espace capturées depuis la Station spatial international (ISS) avec des images satellites des topologies de la Terre dans une table de données dynamiques pour produire son oeuvre.
+Space Dreams prend un ensemble de donnés d'images de l'espace capturées depuis la station spatial international (ISS) avec des images satellites des topologies de la Terre dans une table de données dynamiques pour produire son oeuvre.
 
 ![dreams_bleu](Media/photos/dreams_bleu.jpg)
 
-Urban Dreams montre de nouvelles perspective sur les possibilités de ce que nous pouvons représenter avec les nouvelle technologies
+Urban Dreams montre de nouvelles perspectives sur les possibilités de ce que nous pouvons représenter avec les nouvelles technologies
 
 ![dreams_pixel](Media/photos/dreams_pixel.jpg)
 
-Nature Dreams transforme une vaste collection d'images des parcs nationaux pour produire une série d'expérience de réalité synesthésique.
+Nature Dreams transforme une vaste collection d'images des parcs nationaux pour produire une série d'expériences de réalité synesthésique.
 
 ![dreams_orange](Media/photos/dreams_orange.jpg)
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif
-L'oeuvre se situe dans un gros couloir. À gauche, l'oeuvre est installée au mur. Au milieu nous pouvons circuler et des sièges sont situées à droite.
+L'oeuvre se situe dans un gros couloir. À gauche, l'oeuvre est installée au mur. Au milieu nous pouvons circuler et des sièges sont situés à droite.
 
 ![dreams_plan_eloigner](Media/photos/dreams_plan_eloigner.jpg)
 
 ![Dreams_croquis](Media/Croquis/Dreams_croquis.PNG)
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif
-On a besoin des trois fichiers avec les vidéos qui utlisient des millions d'images pour créer les oeuvres.
+On a besoin des trois fichiers avec les vidéos qui utilisent des millions d'images pour créer les oeuvres.
 ## Liste des éléments nécessaires pour la mise en exposition
-Pour la mise en exposition, il faut avoir des écrans ou tout type de diffuseur. Ensuite, il faut des fils et des cache fils pour que les écrans fonctionnent. Il faut aussi avoir quelque chose pour acrocher l'écran sur un mur.
+Pour la mise en exposition, il faut avoir des écrans ou tout type de diffuseur. Ensuite, il faut des fils et des cache-fils pour que les écrans fonctionnent. Il faut aussi avoir quelque chose pour accrocher l'écran sur un mur.
 
 ![dreams_fil](Media/photos/dreams_fil.jpg)
 
@@ -45,12 +45,12 @@ pour expérimenter cette oeuvre il faut uniquement la regarder. Uniquement en re
 !ream_bleu_loin](Media/photos/dream_bleu_loin.jpg)
 
 ## Ce qui m'a plu, qui m'a donné des idées (justifications)
-J'ai vraiment aimé tous les effets de sable qui allaient dans tous les cotés. J'étais captivé et je ne pouvais pas regarder ailleur. Je prend en note que si quelque chose est captivant, cela amène le regard des gens.
+J'ai vraiment aimé tous les effets de sable qui allaient dans tous les côtés. J'étais captivé et je ne pouvais pas regarder ailleurs. Je prends en note que si quelque chose est captivant, cela amène le regard des gens.
 
 ![dreams_selfi](Media/photos/dreams_selfi.jpg)
 
 ## Aspect que je ne souhaiterais pas retenir pour mes créations ou que je ferais autrement (justifications)
-J'aimerais mettre plus d'interactivité, car j'ai moin aimé le fait que nous ne pouvions pas interagir. Cela améliorerait grandement cette oeuvre.
+J'aimerais mettre plus d'interactivité, car j'ai moins aimé le fait que nous ne pouvions pas interagir. Cela améliorerait grandement cette oeuvre.
 ## Références
 
 ![dream_fiche](Media/photos/dream_fiche.jpg)

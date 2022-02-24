@@ -30,9 +30,13 @@ L'oeuvre se situe dans un gros couloir. À gauche, l'oeuvre est installée au mu
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif
 On a besoin des trois fichiers avec les vidéos qui utlisient des millions d'images pour créer les oeuvres.
 ## Liste des éléments nécessaires pour la mise en exposition
+Pour la mise en exposition, il faut avoir des écrans ou tout type de diffuseur. Ensuite, il faut des fils et des cache fils pour que les écrans fonctionnent. Il faut aussi avoir quelque chose pour acrocher l'écran sur un mur.
 
 ## Description de mon expérience de l'oeuvre
+pour expérimenter cette oeuvre il faut uniquement la regarder. Uniquement en regardant, vous allez être plongé dans l'écran.
 ## Ce qui m'a plu, qui m'a donné des idées (justifications)
+J'ai vraiment aimé tous les effets de sable qui allaient dans tous les cotés. J'étais captivé et je ne pouvais pas regarder ailleur. Je prend en note que si quelque chose est captivant, cela amène le regard des gens.
 ## Aspect que je ne souhaiterais pas retenir pour mes créations ou que je ferais autrement (justifications)
+J'aimerais mettre plus d'interactivité, car j'ai moin aimé le fait que nous ne pouvions pas interagir. Cela améliorerait grandement cette oeuvre.
 ## Références
 

@@ -1,5 +1,8 @@
 ## Titre de l'oeuvre ou de la réalisation
 ### Le fleuve, 50° 11'52,8" N., 66° 4'10"O.
+
+![bechard_gros_plan_vague](media/photos/bechard_gros_plan_vague.jpg)
+
 ## Nom de l'artiste ou de la firme
 ### Catherine Béchard et Sabin Hudon.
 ## Année de réalisation

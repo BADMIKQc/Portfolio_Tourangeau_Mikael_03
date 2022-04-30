@@ -47,4 +47,25 @@ Au moment où nous étions dans le cashier, nous ne savions pas s'il fallait sor
 
 https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
 
+# 1: 3 minutes: 
+##  J'aime le message qui dénonce l'intimidation et les effets qui nous donnent l'impression d'être enfermé dans le noir et cela est vraiment immergent. Je trouve qu'ils ont réussissent à nous faire immerger dans l'univers de leur projet. De plus, la réalité virtuelle nous fait plonger dans leur univers et tout ensemble, nous pouvons vraiment comprendre le message derrière l'oeuvre.
+
+# 2: Chère Sasha: 
+## J'aime le message qui nous explique que nous pouvons changer vers le mieux et que le futur peut être meilleur que le présent. J'aime aussi le contraste entre le côté dépressif et le côté joyeux. De plus, J'ai aimé le fait que nous pouvions interagir avec beaucoup d'objet. Cela rendait l'expérience memorable. En addition, j'ai aimé que nous pouvions laisser un message.
+
+# 3: L'horloge de l'apocalypse: 
+## J'aime l'univers du vectoriel et j'aime vraiment l'idée de changer l'heure de l'horloge pour avancer dans le temps avec la fin du monde à la fin. Je trouve cela inspirant qu'un objet de tous les jours devient interactif. De plus,  je me sentait capturé par l'univers immersif de chaque côté.
+
+# 4: Chronaufrage:
+## J'aime l'idée d'avoir des tableaux avec des animations qui est différent d'un tableau normal. De plus, Je crois que je me sentais à la fois content de voir les belles oeuvres, mais aussi un peu triste étant donné que l'eau et la pluie amène de la tristesse. J'aime aussi le type de dessin qu'ils ont fait qui est d'un style animé japonais.
+# 5: Jeu temporel:
+## J'aime le message de l'environnement, car L'environnement est un problème important. Par contre J'aime moins le fait que le projet est un questionnaire, car J'aime mieux voir des dessins que répondre à un questionnaire. Le projet était interactif mais avait moins toucher mes sentiments que les autres amenaient avec leurs environnements.
+
+# 6: Distorsion collective:
+##  J'aime le message qui démontre comment les cours en ligne peuvent être durs. J'ai aussi aimé leur idée de faire de la Vr, car cela va être très immersif. Par contre, je trouve qu'il n'y avait pas assez d'interactions.
+
+
+
+
+
 

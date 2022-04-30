@@ -1,7 +1,7 @@
 ## Titre de l'oeuvre ou de la réalisation
 3 minutes.
 
-![dreams_plan_moyen](Media/photos/dreams_plan_moyen.jpg)
+![dreams_plan_moyen](Media/photo/3_Minutes_vr_plan_large.PNG)
 ## Nom de l'artiste ou de la firme
 Naoufal Bensaiad, Jérémie Lévesque et Samuel Poulin.
 ## Année de réalisation

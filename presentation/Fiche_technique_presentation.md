@@ -1,3 +1,7 @@
+# Énergisation
+
+![gif](Media/Video/Journey_video_1.gif)
+
 ## Titre de l'oeuvre ou de la réalisation
 ### Énergisation qui contient Horizon, Frozen Music et Journey.
 

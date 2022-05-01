@@ -1,18 +1,18 @@
 ## Titre de l'oeuvre ou de la réalisation
 ### énergisation qui contient Horizon, Frozen music et Journey.
 
-![bechard_gros_plan_vague](media/bechard_gros_plan_vague.jpg)
+![gif](2021-11-17-22-01-43.gif)
 
 ## Nom de l'artiste ou de la firme
-### Catherine Béchard et Sabin Hudon.
+### Pour Journey, l'artiste est Nohlab. Pour Frozen Music, les artistes sont Cadie Desbiens-Desmeules et Michael Gary Dean. Pour Horizon, l'artiste est Alex Le Guillou
 ## Année de réalisation
-### L'oeuvre a été réalisée en 2021.
+### Horizon a été réalisée en 2021. Journey a été réalisée en 2019. Frozen Music a été réalisée en 2020.
 ## Nom de l'exposition ou de l'événement
-### Configuration du sensible.
+### énergisation
 ## Lieu de mise en exposition
-### Maisondes arts de Laval
+### Oasis immersion a Montreal
 ## Date de votre visite
-### Le 17 mars 2022.
+### Le 12 mars 2022.
 ## Description de l'oeuvre
 ### Le fleuve prend une vidéo du fleuve, la met à la verticale et les multiplie pour en avoir quatres.
 

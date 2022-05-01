@@ -1,7 +1,7 @@
 ## Titre de l'oeuvre ou de la réalisation
 ### Énergisation qui contient Horizon, Frozen Music et Journey.
 
-![gif](Media/Photo/ezgif.com-gif-maker(1).gif)
+
 
 ## Nom de l'artiste ou de la firme
 ### Pour Journey, l'artiste est Nohlab. Pour Frozen Music, les artistes sont Cadie Desbiens-Desmeules et Michael Gary Dean. Pour Horizon, l'artiste est Alex Le Guillou.
@@ -16,9 +16,38 @@
 ## Description de l'oeuvre
 
 ### Pour Journey, on est dans une aventure où l'on voit la naissance des photons que l'on représente avec beaucoup de petites particules et des lignes qui font beaucoup de mouvements. Ce voyage montre la transition des photons dans les couches de l'oeil. Ensuite ils vont vers les neurones et font des signaux électriques. En addition, il montre aussi comment on perçoit les photons. toute cette expérience nous paraît comme une aventure avec plein de lignes et de petites particules qui crée des univers très spéciaux et des atmosphères magnifiques. L'ambiance sonore a des bruits très stridents.
+![gif](Media/Video/Journey_video_1.gif)
+
+
+![gif](Media/Video/Journey_video_2.gif)
+
+
+![gif](Media/Video/Journey_video_3.gif)
+
+
+![gif](Media/Video/Journey_video_4.gif)
+
+
+![gif](Media/Video/Journey_video_5.gif)
 
 
 ###  Pour Frozen Music, on utilise la musique et on la modélise dans un environnement 3D en noir et blanc. Le son est figé dans le temps et le résultat est des formes un peu aléatoire et complexe qui se compare à des infrastructures qui ne font pas de sens. L'ambiance sonore est très chaotique et donne un effet mystérieux à l'oeuvre.
+
+
+![gif](Media/Video/horizon_video_1.gif)
+
+
+![gif](Media/Video/horizon_video_2.gif)
+
+
+![gif](Media/Video/horizon_video_3.gif)
+
+
+![gif](Media/Video/horizon_video_4.gif)
+
+
+![gif](Media/Video/horizon_video_5.gif)
+
 
 ### Pour Horizon, on représente la réalité et notre rêve grace à des images abstraites qui peuvent parfois être en ordre ou chaotique. L'oeuvre est inspirée de la mer et du ciel. L'oeuvre se caractérise par une ligne a l'horizon qui représente l'ordre et qui graduellement se transforme en mer de particule bleu qui représente le chaos. L'ambiance sonore est très calme et nous fait plonger dans le calme pour profiter de l'oeuvre.
 

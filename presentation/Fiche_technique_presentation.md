@@ -86,4 +86,9 @@
 
 ## Références
 
+![image](Media/Photo/presentation_description_oeuvre_auteur.jpg)
+
+![image](Media/Photo/presentation_description_oeuvre_frozen_horizon.jpg)
+
+![image](Media/Photo/presentation_description_oeuvre_journey.jpg)
 

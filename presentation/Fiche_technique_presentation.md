@@ -12,9 +12,9 @@
 ## Année de réalisation
 ### Horizon a été réalisé en 2021. Journey a été présenté en 2019. Frozen Music a été réalisé en 2020.
 ## Nom de l'exposition ou de l'événement
-### énergisation.
+### Oasis immersion
 ## Lieu de mise en exposition
-### Oasis immersion dans les galleries du pallais de Montreal.
+### Dans les galleries du pallais de Montreal.
 ## Date de votre visite
 ### Le 12 mars 2022.
 ## Description de l'oeuvre

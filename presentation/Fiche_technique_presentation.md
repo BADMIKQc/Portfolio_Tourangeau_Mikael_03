@@ -33,19 +33,15 @@
 
 ###  Pour Frozen Music, on utilise la musique et on la modélise dans un environnement 3D en noir et blanc. Le son est figé dans le temps et le résultat est des formes un peu aléatoire et complexe qui se compare à des infrastructures qui ne font pas de sens. L'ambiance sonore est très chaotique et donne un effet mystérieux à l'oeuvre.
 
-![gif](Media/Video/Journey_video_1.gif)
+![gif](Media/Video/frozen_music_video_1.gif)
 
 
-![gif](Media/Video/Journey_video_2.gif)
+![gif](Media/Video/frozen_music_video_2.gif)
 
 
-![gif](Media/Video/Journey_video_3.gif)
+![gif](Media/Video/frozen_music_video_3.gif)
 
 
-![gif](Media/Video/Journey_video_4.gif)
-
-
-![gif](Media/Video/Journey_video_5.gif)
 
 
 ### Pour Horizon, on représente la réalité et notre rêve grace à des images abstraites qui peuvent parfois être en ordre ou chaotique. L'oeuvre est inspirée de la mer et du ciel. L'oeuvre se caractérise par une ligne a l'horizon qui représente l'ordre et qui graduellement se transforme en mer de particule bleu qui représente le chaos. L'ambiance sonore est très calme et nous fait plonger dans le calme pour profiter de l'oeuvre.
@@ -60,12 +56,12 @@
 ![gif](Media/Video/horizon_video3.gif)
 
 
-![bechard_gros_plan_vague](media/bechard_gros_plan_vague.jpg)
+
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
 ### L'oeuvre se situe dans une grande pièce avec un couloir pour entrer et un couloir pour sortir. De plus, de nombreux sièges sont disposés autour de la salle et le tout est diffusé sur les 4 murs et le plancher de la salle.
 
-![bechard_croquis](media/bechard_croquis.jpg)
+
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif
 ### Le ficher avec la vidéo de l'oeuvre.

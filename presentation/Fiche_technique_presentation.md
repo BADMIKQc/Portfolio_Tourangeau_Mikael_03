@@ -33,15 +33,13 @@
 
 ###  Pour Frozen Music, on utilise la musique et on la modélise dans un environnement 3D en noir et blanc. Le son est figé dans le temps et le résultat est des formes un peu aléatoire et complexe qui se compare à des infrastructures qui ne font pas de sens. L'ambiance sonore est très chaotique et donne un effet mystérieux à l'oeuvre.
 
-![gif](Media/Video/frozen_music_video_1.gif)
+![gif](Media/Video/Frozen_music_1.gif)
 
 
-![gif](Media/Video/frozen_music_video_2.gif)
+![gif](Media/Video/Frozen_music_video_2.gif)
 
 
-![gif](Media/Video/frozen_music_video_3.gif)
-
-
+![gif](Media/Video/Frozen_music_video_3.gif)
 
 
 ### Pour Horizon, on représente la réalité et notre rêve grace à des images abstraites qui peuvent parfois être en ordre ou chaotique. L'oeuvre est inspirée de la mer et du ciel. L'oeuvre se caractérise par une ligne a l'horizon qui représente l'ordre et qui graduellement se transforme en mer de particule bleu qui représente le chaos. L'ambiance sonore est très calme et nous fait plonger dans le calme pour profiter de l'oeuvre.
@@ -56,7 +54,7 @@
 ![gif](Media/Video/horizon_video3.gif)
 
 
-
+![bechard_gros_plan_vague](media/bechard_gros_plan_vague.jpg)
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
 ### L'oeuvre se situe dans une grande pièce avec un couloir pour entrer et un couloir pour sortir. De plus, de nombreux sièges sont disposés autour de la salle et le tout est diffusé sur les 4 murs et le plancher de la salle.
@@ -68,14 +66,15 @@
 ## Liste des éléments nécessaires pour la mise en exposition
 ###  De nombreux projecteurs sont nécessaires afin de projeter l'oeuvre sur les murs et le sol. Ensuite, des speakers pour le son. De plus, un ordinateur pour faire fonctionner le tout.
 
+
+
+![bechard_projecteur_vague](media/bechard_projecteur_vague.jpg)
+
 ## Ce qui m'a plu, qui m'a donné des idées (justifications)
 ### Pour Horizon, j'ai vraiment aimé l'oeuvre, car la transition entre la ligne et les particules était vraiment bien effectuée et je me sentais absorbé par toutes les particules. Personnellement, je trouve vraiment satisfaisant des groupe de particules ou tout autre petit composant qui bouge fluidement dans des directions aléatoire comme dans l'oeuvre Space Dreams de l'exposition à l'Arsenal Contenporary Art. J'ai aussi aimé l'ambiance sonore, car elle était calme et j' ai remarqué que je suis plus absorbé par les oeuvres qui sont calmes, car ceux-ci donnent une atmosphère où tu peux tout oublier et juste relaxer en regardant l'oeuvre. 
 
-![image](Media/Photo/dreams_bleu.jpg)
-
-![image](Media/Photo/horizon_image_1.JPG)
-
-### Pour Journey, j'aime beaucoup l'effet de petites particules qui construisent une image. Je trouve cela originale de créer une image sans utiliser la manière habituelle de remplir les lignes de l'image. De plus, j'aime l'étrangeté de l'oeuvre qui a une signification derrière. Je trouve l'oeuvre bizarre, mais positivement. Par contre, j'aime moins la musique qui était stridente, car elle était irritante à entendre et je me concentrais moins sur l'oeuvre.
+### Pour Journey, j'aime beaucoup l'effet de petites particules qui construisent une image. Je trouve cela originale de créer une image sans utiliser la manière habituelle de remplir les lignes de l'image. De plus, j'aime l'étrangeté de l'oeuvre qui a une signification derrière. Je trouve l'oeuvre bizarre, mais positivement.
+Par contre, j'aime moins la musique qui était stridente, car elle était irritante à entendre et je me concentrais moins sur l'oeuvre.
 
 ### Pour Frozen Music, j'aime beaucoup l'ambiance de noir et blanc, car je trouve que ces couleurs sont les plus belles et elle amène un univers mystérieux. En addition, j'aime les infrastructures que l'oeuvre créait, car ils paraissent comme de vrai infrastructure, mais ne font pas de sens ce qui rend l'oeuvre unique et étrange. Par contre, les bruits étaient stridant ce qui n'est pas mal, mais j'aime mieux des bruits plus calmes, car je peux mieux  me concentrer  sur l'oeuvre.
 
@@ -85,10 +84,5 @@
 ### la longue durée de l'oeuvre avec toutes les couleurs resplendissantes peut parfois mener à un mot de tête. Je retiens donc qu'une longue exposition dans un univers très grand et resplendissant peut être inconvénient.
 
 ## Références
-
-![image](Media/Photo/presentation_description_oeuvre_auteur.jpg)
-
-![image](Media/Photo/presentation_description_oeuvre_frozen_horizon.jpg)
-
-![image](Media/Photo/presentation_description_oeuvre_journey.jpg)
+![bechard_projecteur_vague](media/bechard_fiche_vague.jpg)
 

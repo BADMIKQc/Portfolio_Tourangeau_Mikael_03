@@ -54,21 +54,19 @@
 ![gif](Media/Video/horizon_video3.gif)
 
 
-![bechard_gros_plan_vague](media/bechard_gros_plan_vague.jpg)
+
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif 
 ### L'oeuvre se situe dans une grande pièce avec un couloir pour entrer et un couloir pour sortir. De plus, de nombreux sièges sont disposés autour de la salle et le tout est diffusé sur les 4 murs et le plancher de la salle.
 
-![image](Media/Photo/energisation_croquis.png)
+
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif
 ### Le ficher avec la vidéo de l'oeuvre.
 ## Liste des éléments nécessaires pour la mise en exposition
 ###  De nombreux projecteurs sont nécessaires afin de projeter l'oeuvre sur les murs et le sol. Ensuite, des speakers pour le son. De plus, un ordinateur pour faire fonctionner le tout.
 
-
-
-![bechard_projecteur_vague](media/bechard_projecteur_vague.jpg)
+![image](Media/Photo/energisation_croquis.png)
 
 ## Ce qui m'a plu, qui m'a donné des idées (justifications)
 ### Pour Horizon, j'ai vraiment aimé l'oeuvre, car la transition entre la ligne et les particules était vraiment bien effectuée et je me sentais absorbé par toutes les particules. Personnellement, je trouve vraiment satisfaisant des groupe de particules ou tout autre petit composant qui bouge fluidement dans des directions aléatoire comme dans l'oeuvre Space Dreams de l'exposition à l'Arsenal Contenporary Art. J'ai aussi aimé l'ambiance sonore, car elle était calme et j' ai remarqué que je suis plus absorbé par les oeuvres qui sont calmes, car ceux-ci donnent une atmosphère où tu peux tout oublier et juste relaxer en regardant l'oeuvre. 
@@ -84,5 +82,10 @@ Par contre, j'aime moins la musique qui était stridente, car elle était irrita
 ### la longue durée de l'oeuvre avec toutes les couleurs resplendissantes peut parfois mener à un mot de tête. Je retiens donc qu'une longue exposition dans un univers très grand et resplendissant peut être inconvénient.
 
 ## Références
-![bechard_projecteur_vague](media/bechard_fiche_vague.jpg)
+
+![image](Media/Photo/presentation_description_oeuvre_auteur.jpg)
+
+![image](Media/Photo/presentation_description_oeuvre_frozen_horizon.jpg)
+
+![image](Media/Photo/presentation_description_oeuvre_journey.jpg)
 

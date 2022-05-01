@@ -37,7 +37,7 @@
 
 ###  Pour Frozen Music, on utilise la musique et on la modélise dans un environnement 3D en noir et blanc. Le son est figé dans le temps et le résultat est des formes un peu aléatoire et complexe qui se compare à des infrastructures qui ne font pas de sens. L'ambiance sonore est très chaotique et donne un effet mystérieux à l'oeuvre.
 
-![gif](Media/Video/frozen_music1.gif)
+![gif](Media/Video/frozen_music_video_1.gif)
 
 
 ![gif](Media/Video/frozen_music_video_2.gif)

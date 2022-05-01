@@ -77,8 +77,7 @@
 
 ![image](Media/Photo/horizon_image_1.JPG)
 
-### Pour Journey, j'aime beaucoup l'effet de petites particules qui construisent une image. Je trouve cela originale de créer une image sans utiliser la manière habituelle de remplir les lignes de l'image. De plus, j'aime l'étrangeté de l'oeuvre qui a une signification derrière. Je trouve l'oeuvre bizarre, mais positivement.
-Par contre, j'aime moins la musique qui était stridente, car elle était irritante à entendre et je me concentrais moins sur l'oeuvre.
+### Pour Journey, j'aime beaucoup l'effet de petites particules qui construisent une image. Je trouve cela originale de créer une image sans utiliser la manière habituelle de remplir les lignes de l'image. De plus, j'aime l'étrangeté de l'oeuvre qui a une signification derrière. Je trouve l'oeuvre bizarre, mais positivement. Par contre, j'aime moins la musique qui était stridente, car elle était irritante à entendre et je me concentrais moins sur l'oeuvre.
 
 ### Pour Frozen Music, j'aime beaucoup l'ambiance de noir et blanc, car je trouve que ces couleurs sont les plus belles et elle amène un univers mystérieux. En addition, j'aime les infrastructures que l'oeuvre créait, car ils paraissent comme de vrai infrastructure, mais ne font pas de sens ce qui rend l'oeuvre unique et étrange. Par contre, les bruits étaient stridant ce qui n'est pas mal, mais j'aime mieux des bruits plus calmes, car je peux mieux  me concentrer  sur l'oeuvre.
 
